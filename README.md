@@ -1,6 +1,6 @@
 # Web Crawler
 
-Code Name: Venom
+**Code Name:** Venom
 
 Web crawler to scan wiki pages and span 10 pages out.
 
